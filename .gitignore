@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+# Large model files
+model/*.pkl
